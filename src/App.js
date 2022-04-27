@@ -5,7 +5,8 @@ function App() {
   return (
     <div className="App">
       <h1 className="App-header">WANTED_PRE_ONBOARDING</h1>
-      {/* <Input></Input> */}
+      <h2>Input</h2>
+      <Input></Input>
     </div>
   );
 }
