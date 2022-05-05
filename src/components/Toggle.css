@@ -14,6 +14,7 @@
 
 .default, .detail {
   color: gray;
+  cursor: pointer;
   width: 50%;
   padding: 2%;
   z-index: 100;
